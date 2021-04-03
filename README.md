@@ -4,4 +4,5 @@
   <img align="left" alt="Koushal's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
+![](https://visitor-badge.glitch.me/badge?page_id=koushal2001.koushal2001)
 
