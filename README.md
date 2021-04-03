@@ -6,4 +6,4 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=koushal2001.koushal2001)
 <br>
-<img align="right" alt="GIF" src="https://github.com/koushal2001/koushal2001/blob/main/op.gif?raw=true" width="500" height="500" />
+<img align="left" alt="GIF" src="https://github.com/koushal2001/koushal2001/blob/main/op.gif?raw=true" width="300" height="300" />
