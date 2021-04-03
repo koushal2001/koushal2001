@@ -5,5 +5,5 @@
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=koushal2001.koushal2001)
-
-<img align="right" alt="GIF" src="https://github.com/koushal2001/koushal2001/blob/main/op.gif?raw=true" width="500" height="320" />
+<br>
+<img align="right" alt="GIF" src="https://github.com/koushal2001/koushal2001/blob/main/op.gif?raw=true" width="500" height="500" />
